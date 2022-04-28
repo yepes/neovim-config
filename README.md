@@ -6,4 +6,4 @@ This repository will be updated as my NeoVim journey goes on ;)
 
 ## Installation
 
-Just clone this repo into your home's directery .config/nvim
+Just clone this repo into your home's directory ~.config
